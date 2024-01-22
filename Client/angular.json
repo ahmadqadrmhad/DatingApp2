@@ -61,7 +61,7 @@
         },
         "serve": {
           "options": {
-            "ssl" : true,
+            "ssl": true,
             "sslCert": "./ssl/server.crt",
             "sslKey": "./ssl/server.key"
           },
